@@ -1,0 +1,44 @@
+
+
+
+.leftPanel {
+  color: white;
+  height: 100%;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.rightPanel {
+  width: 60%;
+  background-color: #501214;
+  vertical-align: middle;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightPanel .choose-option {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+}
+
+.formWindow Button {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+.textboxSize {
+  height: 10%;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sign-out button {
+  margin-top: 36px;
+}

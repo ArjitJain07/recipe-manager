@@ -1,2 +1,19 @@
-# recipe-manager
-A web-application to manage recipes, add missing ingredients to a grocery list and keep an update on what's in stock!
+# My Cookbook
+
+<!-- summary -->
+
+## About
+
+<!-- more detail -->
+
+## Configuration
+
+<!-- how to set up -->
+
+## Licensing & thanks
+
+This project is released under the [MIT License](./LICENSE.txt).
+
+## Changelog
+
+- v1.0.0
